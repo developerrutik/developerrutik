@@ -13,12 +13,12 @@
   <div class="Image1" align="center"> <img src="https://raw.githubusercontent.com/ScorchingShade/ScorchingShade/main/code.gif" width="300" border-radious="50%"/></div>
 
   <div align="center">
-   🌱 I’m currently learning *tailwindCss and sql*
+   🌱 I’m currently learning *node js and java*
 
    👨‍💻 All of my projects are available at
     <a href="http://portfolios.ecti.co.in/rutiks/" target="_blank">Portfolio</a>
 
- 💬 Ask me about *CSS, javaScript and Html*
+ 💬 Ask me about *CSS, javaScript , react js ,  and Html *
 
  📫 How to reach me *rutikkumarsakhiya58@gmail.com*
 
